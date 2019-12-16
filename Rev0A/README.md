@@ -4,6 +4,8 @@
 
 ### Schematic
 
+![Schematic](Schematic.png?raw=true)
+
 ### PCB
 
 ### Photos
