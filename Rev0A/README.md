@@ -13,7 +13,13 @@
 
 ### PCB
 
+![PCB Top side](PCB_top.png?raw=true)
+
+![PCB Bottom side](PCB_bot.png?raw=true)
+
 ### Photos
+
+Still waiting to receive them ... :ship:
 
 ### Issues
 
